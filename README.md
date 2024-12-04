@@ -1,2 +1,2 @@
-# first-c-
-basic programs of c++.
+# First-c-
+Basic programs of c++.
